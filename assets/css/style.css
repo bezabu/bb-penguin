@@ -44,6 +44,17 @@ nav li {
     list-style-type: none;
 }
 
+footer {
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+    margin: 340px 60px 20px;
+    list-style-type: none;
+    font-size: 200%;
+}
+
 #heading {
     font-family: Bebas Neue, sans-serif;
     font-size: 85px;
@@ -154,6 +165,15 @@ div span {
     text-align: center;
     color: white;
 }
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: #ffffff;
+}
+
+
 
 /*media queries*/
 @media screen and (max-width: 1200px) {
