@@ -176,6 +176,36 @@ footer {
 
 
 /*media queries*/
+
+/* phones*/
+@media screen and (max-width: 600px) {
+    #hero-image {}
+
+
+}
+
+/* portrait tablets, large phones*/
+@media screen and (max-width: 768px) {
+    #hero-image {}
+
+
+}
+
+/* landscape tablet*/
+@media screen and (max-width: 992px) {
+    #hero-image {
+        width: 100%;
+        height: 500px;
+        background-image: url(../images/pexels-pixabay-huddle.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%, bottom;
+    }
+
+
+}
+
+/*Laptop*/
 @media screen and (max-width: 1200px) {
     #hero-image {
         width: 100%;
