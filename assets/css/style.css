@@ -181,6 +181,33 @@ footer {
 @media screen and (max-width: 600px) {
     #hero-image {}
 
+    header {
+        height: 100px;
+    }
+
+    #heading {
+
+        font-size: 55px;
+
+    }
+
+    #message-box-1 {
+        float: left;
+        left: 10%;
+        top: 100px;
+    }
+
+    #message-box-2 {
+        float: left;
+        left: 10%;
+        top: 200px;
+    }
+
+    #message-box-3 {
+        float: left;
+        left: 10%;
+        top: 300px;
+    }
 
 }
 
@@ -188,6 +215,27 @@ footer {
 @media screen and (max-width: 768px) {
     #hero-image {}
 
+    #message-box-1 {
+        float: left;
+        left: 10%;
+        top: 100px;
+    }
+
+    #message-box-2 {
+        float: left;
+        left: 10%;
+        top: 200px;
+    }
+
+    #message-box-3 {
+        float: left;
+        left: 10%;
+        top: 300px;
+    }
+
+    .hero-message {
+        font-size: 40px;
+    }
 
 }
 
@@ -202,6 +250,9 @@ footer {
         background-position: 50% 50%, bottom;
     }
 
+    .hero-message {
+        font-size: 50px;
+    }
 
 }
 
