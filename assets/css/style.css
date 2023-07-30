@@ -150,6 +150,14 @@ div span {
     background-color: rgba(250, 100, 150, 0.4);
 }
 
+span h2 {
+    padding: 10px 20px 10px;
+}
+
+span p {
+    padding: 10px 20px 10px;
+}
+
 #fixed-image {
     background-image: url(../images/pexels-pixabay-family.jpg);
     background-size: cover;
@@ -186,7 +194,16 @@ footer {
 
     }
 
+    footer {
+        text-align: center;
+    }
 
+    footer li {
+        display: inline;
+        margin: 50px 50px 20px;
+        list-style-type: none;
+        font-size: 150%;
+    }
 
     nav li {
         float: left;
@@ -227,7 +244,7 @@ footer {
         float: none;
         left: 0px;
         text-align: center;
-        font-size: 20px;
+        font-size: 10px;
     }
 
     .content {
@@ -239,6 +256,21 @@ footer {
 
 /* landscape phones*/
 @media screen and (max-width: 600px) {
+    nav {
+        float: none;
+        font-family: Archivo, sans-serif;
+        font-size: medium;
+
+    }
+
+
+
+    nav li {
+        float: left;
+        padding: 00px 20px 10px;
+        list-style-type: none;
+    }
+
     #hero-image {
         height: 200px;
     }
@@ -271,6 +303,13 @@ footer {
         top: 300px;
     }
 
+    .hero-message {
+        float: none;
+        left: 0px;
+        text-align: center;
+        font-size: 10px;
+    }
+
     .content {
         display: block;
         width: 100%;
@@ -280,6 +319,19 @@ footer {
 
 /* portrait tablets*/
 @media screen and (max-width: 768px) {
+    nav {
+        float: right;
+        font-family: Archivo, sans-serif;
+        font-size: medium;
+
+    }
+
+    nav li {
+        float: left;
+        padding: 00px 5px 10px;
+        list-style-type: none;
+    }
+
     #hero-image {}
 
     #message-box-1 {
@@ -302,7 +354,7 @@ footer {
 
     .hero-message {
         font-size: 40px;
-        text-alignment: justify;
+        text-align: center;
     }
 
     .content {
