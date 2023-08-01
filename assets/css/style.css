@@ -101,13 +101,26 @@ footer li {
     text-transform: uppercase;
     font-size: 65px;
     text-align: center;
-    /*animates hero image zoom */
+    /*animates hero image text */
     animation-name: message-fade;
     animation-duration: 6s;
     animation-fill-mode: forwards;
 }
 
-/*  creates level of zoom for hero image*/
+#signup-hero {
+    width: 100%;
+    height: 800px;
+    background-image: url(../images/pexels-pixabay-line.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: 50% 50%, center;
+}
+
+.signup-form {
+    color: white;
+}
+
+/*  timings for hero image text */
 @keyframes message-fade {
     0% {
         color: rgba(0, 0, 0, 0);
