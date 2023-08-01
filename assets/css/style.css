@@ -117,7 +117,23 @@ footer li {
 }
 
 .signup-form {
+    margin: 10% 30% 10%;
+    padding: 5px;
     color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    text-align: justify;
+}
+
+label {
+    float: left;
+    margin: 10px 40px 10px;
+}
+
+.form-text-input {
+    float: right;
+
+    margin: 10px 40px 10px;
 }
 
 /*  timings for hero image text */
