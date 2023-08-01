@@ -146,6 +146,12 @@ label {
     border-radius: 3px;
 }
 
+.signup-button {
+    float: right;
+    margin: 200px auto 10px;
+    position: relative;
+}
+
 /*  timings for hero image text */
 @keyframes message-fade {
     0% {
