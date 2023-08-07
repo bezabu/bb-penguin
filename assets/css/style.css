@@ -63,7 +63,8 @@ footer li {
 
 }
 
-#heading a {
+#heading a,
+#message-box-3 a {
     text-decoration: none;
     color: inherit;
 }
