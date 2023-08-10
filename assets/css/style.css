@@ -243,8 +243,9 @@ figcaption {
 }
 
 #fixed-image {
-    background-color: black;
+    
     background-image: url(../images/emperor-family-2.jpg);
+    background-color: black;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
@@ -252,7 +253,7 @@ figcaption {
 
 }
 
-#fixed-image p {
+#fixed-image h2 {
     font-family: Bebas Neue, sans-serif;
     text-transform: uppercase;
     font-size: 65px;
