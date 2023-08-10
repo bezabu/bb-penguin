@@ -194,9 +194,19 @@ label {
     margin-bottom: 1rem;
 }
 
-.fact-container img {
-    max-width: 50%;
+.image-container {
+    display: block;
     margin: auto;
+}
+
+.fact-container img,
+figcaption {
+    display: block;
+    max-width: 45%;
+    max-height: inherit;
+    margin: 1rem auto 1rem auto;
+    font-size: small;
+    
 }
 
 .fact-container-left {
