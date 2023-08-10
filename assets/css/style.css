@@ -97,30 +97,29 @@ footer li {
 }
 
 #message-box-1 {
-    float: left;
-    left: 20%;
-    top: 100px;
+
+    text-align: left;
 }
 
 #message-box-2 {
-    float: left;
-    left: 40%;
-    top: 200px;
+    text-align: center;
+
 }
 
 #message-box-3 {
-    float: left;
-    left: 60%;
-    top: 300px;
+    text-align: right;
+
 }
 
 .hero-message {
-    /*background-color: rgba(250, 100, 150, 0.4);*/
-    position: absolute;
+    background-color: rgba(250, 100, 150, 0.4);
+    display: block;
+    margin: 1rem;
+
     font-family: Bebas Neue, sans-serif;
     text-transform: uppercase;
-    font-size: 65px;
-    text-align: center;
+    font-size: 3rem;
+
     /*animates hero image text */
     animation-name: message-fade;
     animation-duration: 6s;
