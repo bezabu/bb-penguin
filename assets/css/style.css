@@ -31,8 +31,15 @@ header div {
     float: left;
 }
 
-nav {
+.nav-container {
+    background-color: rgba(250, 100, 150, 0.4);
+    margin: auto;
     float: right;
+}
+
+nav {
+
+
     font-family: Archivo, sans-serif;
     font-size: medium;
     display: inline;
@@ -112,7 +119,7 @@ footer li {
 }
 
 .hero-message {
-    background-color: rgba(250, 100, 150, 0.4);
+    /*background-color: rgba(250, 100, 150, 0.4);*/
     display: block;
     margin: 1rem;
 
@@ -246,6 +253,10 @@ figcaption {
     display: inline-block;
 
     float: right;
+}
+
+.fact-container p {
+    margin-bottom: 1rem;
 }
 
 #fixed-image {
