@@ -93,7 +93,7 @@ footer li {
 
 #heading a,
 #message-box-3 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: inherit;
 
 }
@@ -370,6 +370,133 @@ footer {
 */
 /*media queries*/
 
+/*Laptop*/
+@media screen and (max-width: 1920px) {
+    #hero-container {
+        width: 100%;
+        height: 600px;
+        background-image: url(../images/icy-huddle.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%, bottom;
+    }
+
+    .fact-container-wide {
+        width: 55%;
+    }
+
+    .fact-container-narrow {
+        width: 35%;
+    }
+}
+
+/*Laptop*/
+@media screen and (max-width: 1200px) {
+    #heading {
+        font-size: 250%;
+        background-color: rgba(250, 250, 100, 0.4);
+    }
+
+    #hero-container {
+        width: 100%;
+        height: 500px;
+        background-image: url(../images/icy-huddle.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%, bottom;
+    }
+
+    .fact-container-wide {
+        width: 55%;
+    }
+
+    .fact-container-narrow {
+        width: 35%;
+    }
+}
+
+/* small screens, laptops*/
+@media screen and (max-width: 1024px) {
+    header div {
+        display: block;
+
+    }
+
+    #heading {
+        font-size: 250%;
+        background-color: rgba(150, 250, 200, 0.4);
+    }
+
+    .nav-container {
+        background-color: rgba(250, 100, 150, 0.4);
+        margin: auto;
+        float: right;
+
+    }
+}
+
+/* landscape phones, tablets*/
+@media screen and (max-width: 768px) {
+
+    header div {
+        display: block;
+
+    }
+
+    #heading {
+        font-size: 180%;
+        background-color: rgba(150, 150, 250, 0.4);
+    }
+
+    .nav-container {
+        display: block;
+        background-color: rgba(250, 100, 150, 0.4);
+        margin: auto;
+        float: right;
+
+
+    }
+
+    nav li {
+        float: left;
+        padding: 10px 10px 10px;
+
+    }
+
+    #hero-container {
+
+        height: 250px;
+        background-image: url(../images/icy-huddle.jpg);
+
+    }
+
+    #message-box-1 {
+
+        text-align: left;
+    }
+
+    #message-box-2 {
+        text-align: center;
+
+    }
+
+    #message-box-3 {
+        text-align: right;
+
+    }
+
+    .hero-message {
+        background-color: rgba(250, 100, 150, 0.4);
+        display: block;
+        margin: 0 1rem 1rem 1rem;
+
+
+        font-size: 2rem;
+
+
+    }
+}
+
 /* phones*/
 @media screen and (max-width: 480px) {
 
@@ -396,6 +523,25 @@ footer {
         list-style-type: none;
     }
 
+    #hero-container {
+
+        height: 250px;
+        background-image: url(../images/icy-huddle.jpg);
+
+    }
+
+    .hero-message {
+        background-color: rgba(250, 100, 150, 0.4);
+        display: block;
+        margin: 0 0.5rem 1rem 0.5rem;
+
+
+
+        font-size: 1.4rem;
+
+
+    }
+
     footer {
         text-align: center;
     }
@@ -411,76 +557,5 @@ footer {
         display: block;
         width: 100%;
         height: 500px;
-    }
-}
-
-/* landscape phones, tablets*/
-@media screen and (min-width: 481px, max-width: 768px) {
-    header div {
-        display: block;
-
-    }
-
-    #heading {
-        font-size: 180%;
-        background-color: rgba(150, 150, 250, 0.4);
-    }
-
-    .nav-container {
-        background-color: rgba(250, 100, 150, 0.4);
-        margin: auto;
-        float: right;
-
-    }
-
-    nav li {
-        float: left;
-        padding: 10px 10px 10px;
-        list-style-type: none;
-    }
-}
-
-
-
-/* small screens, laptops*/
-@media screen and (min-width: 769px, max-width: 1024px) {}
-
-/*Laptop*/
-@media screen and (min-width: 1025px, max-width: 1200px) {
-    #hero-container {
-        width: 100%;
-        height: 500px;
-        background-image: url(../images/icy-huddle.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: 50% 50%, bottom;
-    }
-
-    .fact-container-wide {
-        width: 55%;
-    }
-
-    .fact-container-narrow {
-        width: 35%;
-    }
-}
-
-/*Laptop*/
-@media screen and (min-width: 1201px, max-width: 1920px) {
-    #hero-container {
-        width: 100%;
-        height: 500px;
-        background-image: url(../images/icy-huddle.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: 50% 50%, bottom;
-    }
-
-    .fact-container-wide {
-        width: 55%;
-    }
-
-    .fact-container-narrow {
-        width: 35%;
     }
 }
