@@ -229,11 +229,12 @@ figcaption {
     max-width: 90%;
     max-height: inherit;
     margin: auto auto auto auto;
-    font-size: small;
+    font-size: medium;
     text-align: center;
     border-radius: 20px;
 
 }
+
 
 .fact-container-left {
     display: inline-block;
