@@ -91,7 +91,11 @@ footer li {
 
 
 
-#heading a,
+#heading a {
+    text-decoration: none;
+    color: inherit;
+}
+
 #message-box-3 a {
     text-decoration: underline;
     color: inherit;
@@ -213,7 +217,7 @@ label {
     padding: 10px 0px 10px;
 }
 
-.break h1 {
+.break h2 {
     margin: auto;
 }
 
@@ -433,6 +437,11 @@ footer {
         float: right;
 
     }
+
+    .break h2 {
+        margin: auto;
+        font-size: 1.2rem;
+    }
 }
 
 /* landscape phones, tablets*/
@@ -495,6 +504,11 @@ footer {
 
 
     }
+
+    .break h2 {
+        margin: auto;
+        font-size: 1rem;
+    }
 }
 
 /* phones*/
@@ -542,6 +556,12 @@ footer {
 
     }
 
+
+    .break h2 {
+        margin: auto;
+        font-size: 0.8rem;
+    }
+
     footer {
         text-align: center;
     }
@@ -558,4 +578,5 @@ footer {
         width: 100%;
         height: 500px;
     }
+
 }
