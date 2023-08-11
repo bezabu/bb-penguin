@@ -442,6 +442,30 @@ footer {
         margin: auto;
         font-size: 1.2rem;
     }
+
+    .fact-container-left {
+        display: block;
+
+        float: left;
+    }
+
+    .fact-container-wide {
+        width: 100%;
+    }
+
+    .fact-container-narrow {
+        width: 100%;
+    }
+
+    .fact-container-right {
+        display: block;
+
+        float: left;
+    }
+
+    .fact-container p {
+        margin-bottom: 1rem;
+    }
 }
 
 /* landscape phones, tablets*/
@@ -508,6 +532,30 @@ footer {
     .break h2 {
         margin: auto;
         font-size: 1rem;
+    }
+
+    .fact-container-left {
+        display: block;
+
+        float: left;
+    }
+
+    .fact-container-wide {
+        width: 100%;
+    }
+
+    .fact-container-narrow {
+        width: 100%;
+    }
+
+    .fact-container-right {
+        display: block;
+
+        float: left;
+    }
+
+    .fact-container p {
+        margin-bottom: 1rem;
     }
 }
 
@@ -579,4 +627,27 @@ footer {
         height: 500px;
     }
 
+    .fact-container-left {
+        display: block;
+
+        float: left;
+    }
+
+    .fact-container-wide {
+        width: 100%;
+    }
+
+    .fact-container-narrow {
+        width: 100%;
+    }
+
+    .fact-container-right {
+        display: block;
+
+        float: left;
+    }
+
+    .fact-container p {
+        margin-bottom: 1rem;
+    }
 }
