@@ -39,6 +39,12 @@ header div {
     float: left;
 }
 
+#heading {
+    font-family: Bebas Neue, sans-serif;
+    font-size: 85px;
+    background-color: rgba(250, 150, 100, 0.4);
+}
+
 .nav-container {
     background-color: rgba(250, 100, 150, 0.4);
     margin: auto;
@@ -83,11 +89,7 @@ footer li {
     font-size: 200%;
 }
 
-#heading {
-    font-family: Bebas Neue, sans-serif;
-    font-size: 85px;
 
-}
 
 #heading a,
 #message-box-3 a {
@@ -369,8 +371,30 @@ footer {
 /*media queries*/
 
 /* phones*/
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
 
+    header div {
+        display: block;
+
+    }
+
+    #heading {
+
+        font-size: 170%;
+        background-color: rgba(250, 150, 100, 0.4);
+    }
+
+    .nav-container {
+        background-color: rgba(250, 100, 150, 0.4);
+        margin: auto;
+        float: left;
+    }
+
+    nav li {
+        float: left;
+        padding: 10px 10px 10px;
+        list-style-type: none;
+    }
 
     footer {
         text-align: center;
@@ -383,10 +407,6 @@ footer {
         font-size: 150%;
     }
 
-
-
-
-
     .content {
         display: block;
         width: 100%;
@@ -394,17 +414,39 @@ footer {
     }
 }
 
-/* landscape phones*/
-@media screen and (max-width: 600px) {}
+/* landscape phones, tablets*/
+@media screen and (min-width: 481px, max-width: 768px) {
+    header div {
+        display: block;
 
-/* portrait tablets*/
-@media screen and (max-width: 768px) {}
+    }
 
-/* landscape tablet*/
-@media screen and (max-width: 992px) {}
+    #heading {
+        font-size: 180%;
+        background-color: rgba(150, 150, 250, 0.4);
+    }
+
+    .nav-container {
+        background-color: rgba(250, 100, 150, 0.4);
+        margin: auto;
+        float: right;
+
+    }
+
+    nav li {
+        float: left;
+        padding: 10px 10px 10px;
+        list-style-type: none;
+    }
+}
+
+
+
+/* small screens, laptops*/
+@media screen and (min-width: 769px, max-width: 1024px) {}
 
 /*Laptop*/
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 1025px, max-width: 1200px) {
     #hero-container {
         width: 100%;
         height: 500px;
@@ -424,7 +466,7 @@ footer {
 }
 
 /*Laptop*/
-@media screen and (max-width: 1920px) {
+@media screen and (min-width: 1201px, max-width: 1920px) {
     #hero-container {
         width: 100%;
         height: 500px;
