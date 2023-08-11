@@ -23,8 +23,8 @@ body {
 header {
     background-color: black;
     width: 100%;
-    height: auto;
-    min-height: 6rem;
+    height: 100%;
+    min-height: 7rem;
     color: #ffffff;
 
     font-size: xx-large;
@@ -51,7 +51,7 @@ nav {
     font-family: Archivo, sans-serif;
     font-size: medium;
     display: inline;
-    text-align: right;
+
 }
 
 nav a,
@@ -129,7 +129,7 @@ footer li {
 .hero-message {
     /*background-color: rgba(250, 100, 150, 0.4);*/
     display: block;
-    margin: 1rem;
+    margin: 0 1rem 1rem 1rem;
 
     font-family: Bebas Neue, sans-serif;
     text-transform: uppercase;
@@ -142,6 +142,7 @@ footer li {
 }
 
 #signup-hero {
+    clear: left;
     width: 100%;
     height: 800px;
     background-image: url(../images/king-line.jpg);
@@ -153,29 +154,39 @@ footer li {
 }
 
 .signup-form {
+
     margin: 10% 30% 10%;
     padding: 5px;
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
-    position: absolute;
+
     border-radius: 6px;
 }
 
 label {
-
+    display: inline;
     padding: 0px 50px 10px;
     float: left;
-    margin: 10px 30px 10px 10px;
+    margin: 10px 00px 10px 10px;
 
 }
 
 .form-text-input {
-
+    display: inline;
     float: right;
-    width: 400px;
-    height: 30px;
+    width: 60%;
+    height: 2rem;
     margin: 10px 10px 10px 30px;
     border-radius: 3px;
+}
+
+.form-checkbox-input {
+    display: inline;
+    float: right;
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+    border-radius: 1px;
 }
 
 .signup-button {
@@ -359,12 +370,7 @@ footer {
 
 /* phones*/
 @media screen and (max-width: 400px) {
-    nav {
-        float: none;
-        font-family: Archivo, sans-serif;
-        font-size: medium;
 
-    }
 
     footer {
         text-align: center;
@@ -377,47 +383,9 @@ footer {
         font-size: 150%;
     }
 
-    nav li {
-        float: left;
-        padding: 00px 20px 10px;
-        list-style-type: none;
-    }
 
-    #hero-container {
-        height: 200px;
-    }
 
-    header {
-        height: 100px;
-    }
 
-    #heading {
-        margin: auto;
-        font-size: 40px;
-
-    }
-
-    #message-box-1 {
-
-        top: 100px;
-    }
-
-    #message-box-2 {
-
-        top: 200px;
-    }
-
-    #message-box-3 {
-
-        top: 300px;
-    }
-
-    .hero-message {
-        float: none;
-        left: 0px;
-        text-align: center;
-        font-size: 10px;
-    }
 
     .content {
         display: block;
@@ -427,123 +395,13 @@ footer {
 }
 
 /* landscape phones*/
-@media screen and (max-width: 600px) {
-    nav {
-        float: none;
-        font-family: Archivo, sans-serif;
-        font-size: medium;
-
-    }
-
-
-
-    nav li {
-        float: left;
-        padding: 00px 20px 10px;
-        list-style-type: none;
-    }
-
-    #hero-container {
-        height: 200px;
-    }
-
-    header {
-        height: 100px;
-    }
-
-    #heading {
-
-        font-size: 55px;
-
-    }
-
-    #message-box-1 {
-        float: left;
-        left: 10%;
-        top: 100px;
-    }
-
-    #message-box-2 {
-        float: left;
-        left: 10%;
-        top: 200px;
-    }
-
-    #message-box-3 {
-        float: left;
-        left: 10%;
-        top: 300px;
-    }
-
-    .hero-message {
-        float: none;
-        left: 0px;
-        text-align: center;
-        font-size: 10px;
-    }
-
-
-}
+@media screen and (max-width: 600px) {}
 
 /* portrait tablets*/
-@media screen and (max-width: 768px) {
-    nav {
-        float: right;
-        font-family: Archivo, sans-serif;
-        font-size: medium;
-
-    }
-
-    nav li {
-        float: left;
-        padding: 00px 5px 10px;
-        list-style-type: none;
-    }
-
-    #hero-container {}
-
-    #message-box-1 {
-        float: left;
-        left: 10%;
-        top: 100px;
-    }
-
-    #message-box-2 {
-        float: left;
-        left: 10%;
-        top: 200px;
-    }
-
-    #message-box-3 {
-        float: left;
-        left: 10%;
-        top: 300px;
-    }
-
-    .hero-message {
-        font-size: 40px;
-        text-align: center;
-    }
-
-
-}
+@media screen and (max-width: 768px) {}
 
 /* landscape tablet*/
-@media screen and (max-width: 992px) {
-    #hero-container {
-        width: 100%;
-        height: 500px;
-        background-image: url(../images/icy-huddle.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: 50% 50%, bottom;
-    }
-
-    .hero-message {
-        font-size: 50px;
-    }
-
-}
+@media screen and (max-width: 992px) {}
 
 /*Laptop*/
 @media screen and (max-width: 1200px) {
