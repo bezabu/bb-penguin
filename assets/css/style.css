@@ -450,11 +450,11 @@ footer {
     }
 
     .fact-container-wide {
-        width: 90%;
+        width: 95%;
     }
 
     .fact-container-narrow {
-        width: 90%;
+        width: 95%;
     }
 
     .fact-container-right {
@@ -541,11 +541,11 @@ footer {
     }
 
     .fact-container-wide {
-        width: 90%;
+        width: 96%;
     }
 
     .fact-container-narrow {
-        width: 90%;
+        width: 96%;
     }
 
     .fact-container-right {
@@ -634,11 +634,12 @@ footer {
     }
 
     .fact-container-wide {
-        width: 90%;
+        width: 97%;
+        margin: auto;
     }
 
     .fact-container-narrow {
-        width: 90%;
+        width: 97%;
     }
 
     .fact-container-right {
@@ -647,7 +648,5 @@ footer {
         float: left;
     }
 
-    .fact-container p {
-        margin-bottom: 1rem;
-    }
+
 }
