@@ -42,11 +42,11 @@ header div {
 #heading {
     font-family: Bebas Neue, sans-serif;
     font-size: 85px;
-    background-color: rgba(250, 150, 100, 0.4);
+    /*background-color: rgba(250, 150, 100, 0.4);*/
 }
 
 .nav-container {
-    background-color: rgba(250, 100, 150, 0.4);
+    /*background-color: rgba(250, 100, 150, 0.4);*/
     margin: auto;
     float: right;
 }
@@ -398,7 +398,7 @@ footer {
 @media screen and (max-width: 1200px) {
     #heading {
         font-size: 250%;
-        background-color: rgba(250, 250, 100, 0.4);
+        /*background-color: rgba(250, 250, 100, 0.4);*/
     }
 
     #hero-container {
@@ -428,11 +428,11 @@ footer {
 
     #heading {
         font-size: 250%;
-        background-color: rgba(150, 250, 200, 0.4);
+        /*background-color: rgba(150, 250, 200, 0.4);*/
     }
 
     .nav-container {
-        background-color: rgba(250, 100, 150, 0.4);
+        /*background-color: rgba(250, 100, 150, 0.4);*/
         margin: auto;
         float: right;
 
@@ -478,12 +478,12 @@ footer {
 
     #heading {
         font-size: 180%;
-        background-color: rgba(150, 150, 250, 0.4);
+        /*background-color: rgba(150, 150, 250, 0.4);*/
     }
 
     .nav-container {
         display: block;
-        background-color: rgba(250, 100, 150, 0.4);
+        /*background-color: rgba(250, 100, 150, 0.4);*/
         margin: auto;
         float: right;
 
@@ -519,7 +519,7 @@ footer {
     }
 
     .hero-message {
-        background-color: rgba(250, 100, 150, 0.4);
+        /*background-color: rgba(250, 100, 150, 0.4);*/
         display: block;
         margin: 0 1rem 1rem 1rem;
 
@@ -570,11 +570,11 @@ footer {
     #heading {
 
         font-size: 170%;
-        background-color: rgba(250, 150, 100, 0.4);
+        /*background-color: rgba(250, 150, 100, 0.4);*/
     }
 
     .nav-container {
-        background-color: rgba(250, 100, 150, 0.4);
+        /*background-color: rgba(250, 100, 150, 0.4);*/
         margin: auto;
         float: left;
     }
@@ -593,7 +593,7 @@ footer {
     }
 
     .hero-message {
-        background-color: rgba(250, 100, 150, 0.4);
+        /*background-color: rgba(250, 100, 150, 0.4);*/
         display: block;
         margin: 0 0.5rem 1rem 0.5rem;
 
