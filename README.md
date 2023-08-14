@@ -1,6 +1,5 @@
-![Mockup](/assets/images/mockup01.jpg)
-
-Readme
+# We Love Penguins
+![Mockup](assets/images/mockup01.JPG)
 
 Overview
 
