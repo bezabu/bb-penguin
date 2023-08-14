@@ -1,39 +1,52 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+Readme
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Overview
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+Features
 
-## Codeanywhere Reminders
+Nav bar
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+landing page
 
-`python3 -m http.server`
+info
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+footer
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+gallery
 
-`http_server`
+signup form
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+favicon
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Features left ot implement
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+technologies
+HTML
+CSS
+chrome dev tools
+fontawesome
+google fonts
+iconifier.net for favicon
+https://techsini.com/ for mockup
+github for storage
+gitpages for deployment
+wave web accessory tool
+lighthouse
+w3 html & css validators
 
-To log into the Heroku toolbelt CLI:
+testing
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+validator testing
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+deployment steps
 
----
+credit
+content paraphrased/verbatim from wikipedia/wwf
+images from pexels, etc
 
-Happy coding!
+tutorial followed to create custom bulletpoints with fontawesome
+https://love2dev.com/blog/customize-bulleted-list/#:~:text=Changing%20the%20Bullet%20to%20an,you%20want%20as%20your%20bullets.
+
+acknowledgements
