@@ -618,6 +618,17 @@ footer {
     #photos {
         column-count: 3;
     }
+
+    .signup-form {
+
+        margin: 5% 10% 10%;
+
+    }
+
+    label {
+
+        width: 65%;
+    }
 }
 
 /* phones*/
@@ -713,6 +724,16 @@ footer {
         column-count: 2;
     }
 
+    .signup-form {
+
+        margin: 5% 10% 10%;
+
+    }
+
+    label {
+
+        width: 55%;
+    }
 
 }
 
