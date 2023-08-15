@@ -221,10 +221,11 @@ label {
     margin: auto;
 }
 
+/*
 .fact-section {
-    /*height: max-content;*/
+    height: max-content;
 }
-
+*/
 .fact-container {
     background-color: rgba(240, 240, 240, 0.8);
     margin: 1%;
@@ -262,7 +263,7 @@ figcaption {
 
 
 .fact-container-left {
-    display: inline-block;
+    /*display: inline-block;*/
 
     float: left;
 }
@@ -276,7 +277,7 @@ figcaption {
 }
 
 .fact-container-right {
-    display: inline-block;
+    /*display: inline-block;*/
 
     float: right;
 }
@@ -285,7 +286,7 @@ figcaption {
     margin-bottom: 1rem;
 }
 
-div a {}
+
 
 #icon-list li {
     list-style-type: none;
@@ -678,7 +679,7 @@ footer {
         column-count: 2;
     }
 
-    
+
 }
 
 /* small phones*/
@@ -774,5 +775,5 @@ footer {
         column-count: 1;
     }
 
-    
+
 }
