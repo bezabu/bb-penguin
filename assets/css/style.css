@@ -53,7 +53,6 @@ header div {
 
 nav {
 
-
     font-family: Archivo, sans-serif;
     font-size: medium;
     display: inline;
@@ -390,6 +389,7 @@ footer {
     line-height: 0;
     column-count: 4;
     column-gap: 0;
+    background-color: black;
 }
 
 #photos>img {
@@ -761,6 +761,7 @@ footer {
         float: left;
         padding: 10px 10px 10px;
         list-style-type: none;
+        font-size: 0.8rem;
     }
 
     #hero-container {
