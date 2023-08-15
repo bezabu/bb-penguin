@@ -433,6 +433,7 @@ footer {
     .fact-container-narrow {
         width: 35%;
     }
+
 }
 
 /* small screens, laptops*/
@@ -486,6 +487,7 @@ footer {
     #photos {
         column-count: 3;
     }
+
 }
 
 /* landscape phones, tablets*/
@@ -579,7 +581,7 @@ footer {
     }
 
     #photos {
-        column-count: 2;
+        column-count: 3;
     }
 }
 
@@ -673,9 +675,10 @@ footer {
     }
 
     #photos {
-        column-count: 1;
+        column-count: 2;
     }
 
+    
 }
 
 /* small phones*/
@@ -771,4 +774,5 @@ footer {
         column-count: 1;
     }
 
+    
 }
