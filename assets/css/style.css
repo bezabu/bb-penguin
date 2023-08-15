@@ -482,6 +482,10 @@ footer {
     .fact-container p {
         margin-bottom: 1rem;
     }
+
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* landscape phones, tablets*/
@@ -572,6 +576,10 @@ footer {
 
     .fact-container p {
         margin-bottom: 1rem;
+    }
+
+    #photos {
+        column-count: 2;
     }
 }
 
@@ -664,6 +672,9 @@ footer {
         float: left;
     }
 
+    #photos {
+        column-count: 1;
+    }
 
 }
 
@@ -756,5 +767,8 @@ footer {
         float: left;
     }
 
+    #photos {
+        column-count: 1;
+    }
 
 }
