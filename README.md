@@ -1,25 +1,36 @@
 # We Love Penguins
+
+We Love Penguins is a site for a fictional conservation society that provides the oppurtunity for people to find out more about the work being done to protect penguins from climate change related threats, and to become more involved in this work. We Love Penguins provides some facts about the three main species of penguins that inhabit Antarctica, and an explanation of how climate change affects them.
+
+The site can be accessed [here](https://bezabu.github.io/bb-penguin/)
+
 ![Mockup](assets/images/mockup01.JPG)
 
-Overview
+## Features
 
-Features
+### Existing Features
 
-Nav bar
+- Navigation Bar
 
-landing page
+* Found at the top of all three pages. It allows the user to navigate to the gallery page, the sign-up page and the home page without having to use the browser's back button.
 
-info
+IMG OF NAV
 
-footer
+- Landing Page
 
-gallery
+* The landing page includes a picture of the main subjects (penguins) in their habitat. Three short sentances overlay this image urging the user to find out more. These messages fade in to attract the user's attention.
 
-signup form
+- info
 
-favicon
+- footer
 
-Features left ot implement
+- gallery
+
+- signup form
+
+- favicon
+
+Features left to implement
 
 technologies
 HTML
