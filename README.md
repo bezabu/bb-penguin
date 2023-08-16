@@ -1,6 +1,6 @@
 # We Love Penguins
 
-We Love Penguins is a site for a fictional conservation society that provides the oppurtunity for people to find out more about the work being done to protect penguins from climate change related threats, and to become more involved in this work. We Love Penguins provides some facts about the three main species of penguins that inhabit Antarctica, and an explanation of how climate change affects them.
+We Love Penguins is a site for a fictional conservation society that provides the oppurtunity for people to find out more about the work being done to protect penguins from climate change related threats, and to become more involved in this work. We Love Penguins provides some facts about the main species of penguins that inhabit Antarctica, and an explanation of how climate change affects them.
 
 The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
@@ -18,25 +18,34 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Landing Page
 
-  - The landing page includes a picture of the main subjects (penguins) in their habitat. Three short sentances overlay this image urging the user to find out more. These messages fade in to attract the user's attention.
+  - The landing page includes a picture of the main subjects (penguins) in their habitat. Three short sentances overlay this image urging the user to find out more. These messages fade in to attract the user's attention. The third message is a link to a lower part of the page.
 
   ![landing page](assets/images/landing-01.webp)
 
-- info
+- Penguins Section
 
-  * Below the fold is where the user can find information about penguins.
+  - Below the fold is where the user can find information about penguins. The user can learn about different species of penguin and how they live.
 
-  * 
+  ![info](assets/images/info-1.jfif)
+
+  - Further down the page the user can learn about the goals of the organisation and what they can do to contribute.
+
+  ![info](assets/images/info-2.jfif)
 
 - Footer
 
-  * Found at the bottom of the page.
+  - Found at the bottom of the page.
 
   ![footer](assets/images/footer-1.jfif)
 
-- gallery
+- Gallery
 
-- signup form
+  - The gallery will provide the user with pictures of penguins. The responsive design ensures that each image will still be easily viewable on a small screen.
+  - When the user moves the cursor over an image it will zoom slightly, enabling the user to see it better.
+
+  ![gallery](assets/images/gallery.jfif)
+
+- Signup form
 
 - favicon
 
