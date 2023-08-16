@@ -57,6 +57,21 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 ## Testing
 
+- Check all navigation links point to correct pages
+
+  - Test:
+    a. Open the website in a browser
+    b. Click on all links in the navigation bar (Home, Gallery, Save the Penguins) from each page to ensure they lead to the correct pages.
+  - Result:
+    - All links work correctly
+
+- Check all external links point to correct pages
+  - Test:
+    a. Open the website in a browser
+    b. Click on all links in the footer (Facebook, Twitter and Instagram) from each page to ensure they lead to the correct pages and open in a new tab.
+  - Result:
+    - All links work correctly
+
 ## Validator Testing
 
 - HTML
