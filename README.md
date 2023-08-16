@@ -14,15 +14,25 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
   - Found at the top of all three pages. It allows the user to navigate to the gallery page, the sign-up page and the home page without having to use the browser's back button.
 
-IMG OF NAV
+  ![nav bar](assets/images/nav-01.jfif)
 
 - Landing Page
 
   - The landing page includes a picture of the main subjects (penguins) in their habitat. Three short sentances overlay this image urging the user to find out more. These messages fade in to attract the user's attention.
 
+  ![landing page](assets/images/landing-01.webp)
+
 - info
 
-- footer
+  * Below the fold is where the user can find information about penguins.
+
+  * 
+
+- Footer
+
+  * Found at the bottom of the page.
+
+  ![footer](assets/images/footer-1.jfif)
 
 - gallery
 
