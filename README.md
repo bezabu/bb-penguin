@@ -26,7 +26,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
   - Below the fold is where the user can find information about penguins. The user can learn about different species of penguin and how they live.
 
-  ![info](assets/images/info-1.jfif)
+  ![info](assets/images/info-1.webp)
 
   - Further down the page the user can learn about the goals of the organisation and what they can do to contribute.
 
