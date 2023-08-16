@@ -47,7 +47,13 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Signup form
 
-- favicon
+  - ![sign up](assets/images/signup.webp)
+
+- Favicon
+
+  - To help make the site stand out among other tabs, it has it's own favicon.
+
+  ![favicon](assets/images/favicon.webp)
 
 ## Testing
 
