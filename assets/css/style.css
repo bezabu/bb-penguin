@@ -26,7 +26,6 @@ header {
     height: 100%;
     min-height: 7rem;
     color: #ffffff;
-
     font-size: xx-large;
 }
 
@@ -43,21 +42,17 @@ header div {
     font-family: Bebas Neue, sans-serif;
     font-size: 85px;
     margin-left: 10px;
-    /*background-color: rgba(250, 150, 100, 0.4);*/
 }
 
 .nav-container {
-    /*background-color: rgba(250, 100, 150, 0.4);*/
     margin: auto;
     float: right;
 }
 
 nav {
-
     font-family: Archivo, sans-serif;
     font-size: medium;
     display: inline;
-
 }
 
 nav a,
@@ -70,7 +65,6 @@ nav a:hover,
 footer a:hover {
     color: #00E8FF;
 }
-
 
 nav li {
     float: left;
@@ -89,8 +83,6 @@ footer li {
     font-size: 200%;
 }
 
-
-
 #heading a {
     text-decoration: none;
     color: inherit;
@@ -99,7 +91,6 @@ footer li {
 #message-box-3 a {
     text-decoration: underline;
     color: inherit;
-
 }
 
 #message-box-3 a:hover {
@@ -114,33 +105,26 @@ footer li {
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: 50% 50%, center;
-
 }
 
 #message-box-1 {
-
     text-align: left;
 }
 
 #message-box-2 {
     text-align: center;
-
 }
 
 #message-box-3 {
     text-align: right;
-
 }
 
 .hero-message {
-    /*background-color: rgba(250, 100, 150, 0.4);*/
     display: block;
     margin: 0 1rem 1rem 1rem;
-
     font-family: Bebas Neue, sans-serif;
     text-transform: uppercase;
     font-size: 3rem;
-
     /*animates hero image text */
     animation-name: message-fade;
     animation-duration: 6s;
@@ -152,7 +136,6 @@ footer li {
     width: 100%;
     height: 1100px;
     background-image: url(../images/king-line-2.webp);
-
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -160,7 +143,6 @@ footer li {
 }
 
 .signup-form {
-    /*display: flex;*/
     flex-direction: column;
     clear: left;
     margin: 5% 20% 10%;
@@ -172,11 +154,9 @@ footer li {
     min-width: 50%;
 }
 
-
 label {
     display: inline-block;
     padding: 0px 10px 10px;
-    /*float: left;*/
     margin: 10px 10px 10px 10px;
     width: 80%;
 }
@@ -184,7 +164,6 @@ label {
 .signup-form h3 {
     clear: both;
 }
-
 
 .form-text-input {
     display: inline;
@@ -205,11 +184,6 @@ label {
     height: 25px;
     margin: 10px;
     border-radius: 1px;
-
-    /*
-    position: relative;
-    left: 85%;
-    bottom: 40px;*/
 }
 
 .form-radio-input {
@@ -219,19 +193,11 @@ label {
     height: 25px;
     margin: 10px;
     border-radius: 1px;
-
-    /*
-    position: relative;
-    left: 85%;
-    bottom: 40px;
-    */
 }
 
 .signup-button {
     display: block;
-
     margin: auto;
-
     width: 200px;
     height: 80px;
     border-radius: 5px;
@@ -257,11 +223,6 @@ label {
     margin: auto;
 }
 
-/*
-.fact-section {
-    height: max-content;
-}
-*/
 .fact-container {
     background-color: rgba(240, 240, 240, 0.8);
     margin: 1%;
@@ -271,7 +232,6 @@ label {
 }
 
 .fact-container li {
-    /*list-style-type: none;*/
     margin: 0.8rem 0rem 0.8rem 1rem;
 }
 
@@ -280,8 +240,6 @@ label {
 }
 
 .image-container {
-    /*display: block;
-    margin: auto;*/
     background-color: rgba(240, 240, 240, 0);
 }
 
@@ -294,13 +252,9 @@ figcaption {
     font-size: medium;
     text-align: center;
     border-radius: 20px;
-
 }
 
-
 .fact-container-left {
-    /*display: inline-block;*/
-
     float: left;
 }
 
@@ -313,16 +267,12 @@ figcaption {
 }
 
 .fact-container-right {
-    /*display: inline-block;*/
-
     float: right;
 }
 
 .fact-container p {
     margin-bottom: 1rem;
 }
-
-
 
 #icon-list li {
     list-style-type: none;
@@ -360,14 +310,12 @@ figcaption {
 }
 
 #fixed-image {
-
     background-image: url(../images/emperor-family-3.webp);
     background-color: black;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
     clear: both;
-
 }
 
 #fixed-image h2 {
@@ -419,16 +367,8 @@ footer {
     }
 }
 
-/*
-######################################################################################################################################
-######################################################################################################################################
-###################################################################################################################################### 
-######################################################################################################################################
-
-*/
 /*media queries*/
-
-/*Laptop*/
+/*Laptops, desktops*/
 @media screen and (max-width: 1920px) {
     #hero-container {
         width: 100%;
@@ -452,7 +392,6 @@ footer {
 @media screen and (max-width: 1200px) {
     #heading {
         font-size: 250%;
-        /*background-color: rgba(250, 250, 100, 0.4);*/
     }
 
     #hero-container {
@@ -471,26 +410,21 @@ footer {
     .fact-container-narrow {
         width: 35%;
     }
-
 }
 
 /* small screens, laptops*/
 @media screen and (max-width: 1024px) {
     header div {
         display: block;
-
     }
 
     #heading {
         font-size: 250%;
-        /*background-color: rgba(150, 250, 200, 0.4);*/
     }
 
     .nav-container {
-        /*background-color: rgba(250, 100, 150, 0.4);*/
         margin: auto;
         float: right;
-
     }
 
     .break h2 {
@@ -500,7 +434,6 @@ footer {
 
     .fact-container-left {
         display: block;
-
         float: left;
     }
 
@@ -514,7 +447,6 @@ footer {
 
     .fact-container-right {
         display: block;
-
         float: left;
     }
 
@@ -525,7 +457,6 @@ footer {
     #photos {
         column-count: 3;
     }
-
 }
 
 /* landscape phones, tablets*/
@@ -533,60 +464,44 @@ footer {
 
     header div {
         display: block;
-
     }
 
     #heading {
         font-size: 180%;
-        /*background-color: rgba(150, 150, 250, 0.4);*/
     }
 
     .nav-container {
         display: block;
-        /*background-color: rgba(250, 100, 150, 0.4);*/
         margin: auto;
         float: right;
-
-
     }
 
     nav li {
         float: left;
         padding: 10px 10px 10px;
-
     }
 
     #hero-container {
-
         height: 250px;
         background-image: url(../images/huddle-ice-emp.webp);
-
     }
 
     #message-box-1 {
-
         text-align: left;
     }
 
     #message-box-2 {
         text-align: center;
-
     }
 
     #message-box-3 {
         text-align: right;
-
     }
 
     .hero-message {
-        /*background-color: rgba(250, 100, 150, 0.4);*/
         display: block;
         margin: 0 1rem 1rem 1rem;
-
-
         font-size: 2rem;
-
-
     }
 
     .break h2 {
@@ -596,7 +511,6 @@ footer {
 
     .fact-container-left {
         display: block;
-
         float: left;
     }
 
@@ -610,7 +524,6 @@ footer {
 
     .fact-container-right {
         display: block;
-
         float: left;
     }
 
@@ -623,13 +536,10 @@ footer {
     }
 
     .signup-form {
-
         margin: 5% 10% 10%;
-
     }
 
     label {
-
         width: 65%;
     }
 }
@@ -639,17 +549,13 @@ footer {
 
     header div {
         display: block;
-
     }
 
     #heading {
-
         font-size: 170%;
-        /*background-color: rgba(250, 150, 100, 0.4);*/
     }
 
     .nav-container {
-        /*background-color: rgba(250, 100, 150, 0.4);*/
         margin: auto;
         float: left;
     }
@@ -661,24 +567,15 @@ footer {
     }
 
     #hero-container {
-
         height: 250px;
         background-image: url(../images/huddle-ice-emp.webp);
-
     }
 
     .hero-message {
-        /*background-color: rgba(250, 100, 150, 0.4);*/
         display: block;
         margin: 0 0.5rem 1rem 0.5rem;
-
-
-
         font-size: 1.4rem;
-
-
     }
-
 
     .break h2 {
         margin: auto;
@@ -704,7 +601,6 @@ footer {
 
     .fact-container-left {
         display: block;
-
         float: left;
     }
 
@@ -719,7 +615,6 @@ footer {
 
     .fact-container-right {
         display: block;
-
         float: left;
     }
 
@@ -728,13 +623,10 @@ footer {
     }
 
     .signup-form {
-
         margin: 5% 10% 10%;
-
     }
 
     label {
-
         width: 55%;
     }
 
@@ -745,17 +637,14 @@ footer {
 
     header div {
         display: block;
-
     }
 
     #heading {
         margin-left: 5px;
         font-size: 150%;
-        /*background-color: rgba(250, 150, 100, 0.4);*/
     }
 
     .nav-container {
-        /*background-color: rgba(250, 100, 150, 0.4);*/
         margin: auto;
         float: left;
     }
@@ -768,22 +657,14 @@ footer {
     }
 
     #hero-container {
-
         height: 200px;
         background-image: url(../images/huddle-ice-emp.webp);
-
     }
 
     .hero-message {
-        /*background-color: rgba(250, 100, 150, 0.4);*/
         display: block;
         margin: 0 0.5rem 1rem 0.5rem;
-
-
-
         font-size: 1.2rem;
-
-
     }
 
 
@@ -811,7 +692,6 @@ footer {
 
     .fact-container-left {
         display: block;
-
         float: left;
     }
 
@@ -826,13 +706,10 @@ footer {
 
     .fact-container-right {
         display: block;
-
         float: left;
     }
 
     #photos {
         column-count: 1;
     }
-
-
 }
