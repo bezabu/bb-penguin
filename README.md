@@ -86,19 +86,22 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
   - No errors, contrast errors or alerts were returned when passing through the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://bezabu.github.io/bb-penguin/index.html)
 
-technologies
-HTML
-CSS
-chrome dev tools
-fontawesome
-google fonts
-iconifier.net for favicon
-https://techsini.com/ for mockup
-github for storage
-gitpages for deployment
-wave web accessory tool
-lighthouse
-w3 html & css validators
+## Technologies
+
+- HTML has been used to structure the web site
+- CSS has been used to style the web site
+- [Chrome dev tools](https://developer.chrome.com/docs/devtools/) has been used for testing, debugging
+- [FontAwesome](https://fontawesome.com/) has been used for the icons in the footer and for custom bullet points
+- [Google fonts](https://fonts.google.com/) has been used to import the fonts **Archivo**, **Bebas Neue** and **Fjalla One**
+- [Iconifier](https://iconifier.net/) has been used to create a favicon
+- [Techsini mockup generator](https://techsini.com/multi-mockup/index.php) has been used to create the mockup for the readme file
+- [Github](https://github.com/) has been used to store code, images and other contents
+- [Gitpages](https://pages.github.com/) was used to deploy the website
+- [Git](https://git-scm.com/) was used for version control, pushing contents to github
+- [Codeanywhere](https://app.codeanywhere.com/)was used as IDE
+- [Wave Web Accessibility Evaluation tool](https://wave.webaim.org/) was used to test the accessibility of the web site
+  lighthouse
+  w3 html & css validators
 
 ## Deployment
 
@@ -123,18 +126,26 @@ w3 html & css validators
     - [Adelie Penguins](https://www.wwf.org.uk/learn/fascinating-facts/adelie-penguins)
     - [Protecting Penguins](https://www.wwf.org.uk/updates/working-together-protect-penguins)
 
-- Icons in the footer and custom bullet point list are taken from [FontAwesome](https://fontawesome.com/)
-
-- Fonts used are from [Google fonts](https://fonts.google.com/)
+- Fonts used are from
 
 ### Images
+
+- The Images used in the Landing page, gallery and sign up page are taken from:
+
+  - [Pexels](https://www.pexels.com/):
+
+    - [emperor-family-3.webp](https://www.pexels.com/photo/cold-nature-cute-ice-52509/)
+    - [icy-huddle.jpg](https://www.pexels.com/photo/group-of-penguins-on-ice-46235/)
+    - [king-line-2.webp](https://www.pexels.com/photo/animal-beaks-bird-cold-209096/)
+
+  - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+
+  - [Google Images](https://www.google.com/imghp)
+
+- This project is for educational purposes only
 
 ### Code
 
 - Instructions on how to implement font awesome icons as bullet points was taken from [the answers to this Stack Overflow question](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 
 - Instructions on how to implement a zoom effect on hovering over images was taken from [This W3Schools page](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
-
-- Instructions on how to implement media queries was taken from
-
-acknowledgements
