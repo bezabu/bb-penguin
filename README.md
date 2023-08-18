@@ -100,10 +100,18 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 - [Git](https://git-scm.com/) was used for version control, pushing contents to github
 - [Codeanywhere](https://app.codeanywhere.com/)was used as IDE
 - [Wave Web Accessibility Evaluation tool](https://wave.webaim.org/) was used to test the accessibility of the web site
-  lighthouse
-  w3 html & css validators
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used to run an audit of the web site
+- [W3C Markup Validation Service](https://validator.w3.org/) was used to check HTML
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to check CSS
 
 ## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+- The live link can be found here: [https://bezabu.github.io/bb-penguin/](https://bezabu.github.io/bb-penguin/)
 
 ## Credit
 
