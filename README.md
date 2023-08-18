@@ -84,7 +84,10 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Accessibility
 
-  - No errors, contrast errors or alerts were returned when passing through the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://bezabu.github.io/bb-penguin/index.html)
+  - Two alerts returned when passing through the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://bezabu.github.io/bb-penguin/index.html)
+    - A section with id fixed-image had white text over a background image. Adding a background-color property \_ _below_ \_ the background-image property cleared this alert.
+    - The 'Become a member' link which links to the sign-up page and the 'Save the Penguins' link in the navigation bar was flagged as redundant links. I got around this by having one of them link specifically to the header in the sign-up page. This clearede the alert.
+  - No errors or contrast errors were returned.
 
 ## Technologies
 
@@ -107,6 +110,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
+
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
@@ -134,8 +138,6 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
     - [Adelie Penguins](https://www.wwf.org.uk/learn/fascinating-facts/adelie-penguins)
     - [Protecting Penguins](https://www.wwf.org.uk/updates/working-together-protect-penguins)
 
-- Fonts used are from
-
 ### Images
 
 - The Images used in the Landing page, gallery and sign up page are taken from:
@@ -145,8 +147,8 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
     - [emperor-family-3.webp](https://www.pexels.com/photo/cold-nature-cute-ice-52509/)
     - [icy-huddle.jpg](https://www.pexels.com/photo/group-of-penguins-on-ice-46235/)
     - [king-line-2.webp](https://www.pexels.com/photo/animal-beaks-bird-cold-209096/)
-
-  - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+    - [wide-ice.jpg](https://www.pexels.com/photo/cold-nature-cute-ice-48814/)
+    - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
   - [Google Images](https://www.google.com/imghp)
 
