@@ -100,13 +100,41 @@ wave web accessory tool
 lighthouse
 w3 html & css validators
 
-deployment steps
+## Deployment
 
-credit
-content paraphrased/verbatim from wikipedia/wwf
-images from pexels, etc
+## Credit
 
-tutorial followed to create custom bulletpoints with fontawesome
-https://love2dev.com/blog/customize-bulleted-list/#:~:text=Changing%20the%20Bullet%20to%20an,you%20want%20as%20your%20bullets.
+### Content
+
+- Text is from [Wikipedia](https://en.wikipedia.org/wiki/Penguin), [World Wide Fund for Nature (WWF)](https://www.wwf.org.uk/search?keys=penguin) and [NASA](https://climate.nasa.gov/vital-signs/ice-sheets/#:~:text=Key%20Takeaway%3A,adding%20to%20sea%20level%20rise.)
+
+  - Wikipedia Articles:
+
+    - [Penguins](https://en.wikipedia.org/wiki/Penguin)
+    - [Emperor Penguin](https://en.wikipedia.org/wiki/Emperor_penguin)
+    - [Adelie Penguin](https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin)
+    - [King Penguin](https://en.wikipedia.org/wiki/King_penguin)
+    - [Climate change in ANtarctica](https://en.wikipedia.org/wiki/Climate_change_in_Antarctica)
+
+  - WWF pages:
+    - [Emperor Penguins](https://www.wwf.org.uk/learn/fascinating-facts/emperor-penguins)
+    - [Emperor Penguins](https://www.wwf.org.uk/updates/emperor-penguins-toughest-birds-planet)
+    - [Adelie Penguins](https://www.wwf.org.uk/learn/wildlife/adelie-penguins)
+    - [Adelie Penguins](https://www.wwf.org.uk/learn/fascinating-facts/adelie-penguins)
+    - [Protecting Penguins](https://www.wwf.org.uk/updates/working-together-protect-penguins)
+
+- Icons in the footer and custom bullet point list are taken from [FontAwesome](https://fontawesome.com/)
+
+- Fonts used are from [Google fonts](https://fonts.google.com/)
+
+### Images
+
+### Code
+
+- Instructions on how to implement font awesome icons as bullet points was taken from [the answers to this Stack Overflow question](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
+
+- Instructions on how to implement a zoom effect on hovering over images was taken from [This W3Schools page](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
+
+- Instructions on how to implement media queries was taken from
 
 acknowledgements
