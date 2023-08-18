@@ -57,6 +57,15 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 ## Testing
 
+- Check all media queries function correctly in different browsers (Chrome, Firefox, Edge, Opera)
+
+  - Test:
+    a. Open the website in a browser
+    b. Right click on the page and select 'Inspect' or 'Inspect element'
+    c. Slowly resize the responsive window down to 280 and back again, observing changes at each breakpoint
+  - Result:
+    - All media queries work correctly
+
 - Check all navigation links point to correct pages
 
   - Test:
@@ -140,17 +149,20 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 ### Images
 
-- The Images used in the Landing page, gallery and sign up page are taken from:
+- The Images used in the Landing page, gallery and sign up page taken from [Pexels](https://www.pexels.com/):
 
-  - [Pexels](https://www.pexels.com/):
+  - [emperor-family-3.webp](https://www.pexels.com/photo/cold-nature-cute-ice-52509/), [icy-huddle.jpg](https://www.pexels.com/photo/group-of-penguins-on-ice-46235/), [king-line-2.webp](https://www.pexels.com/photo/animal-beaks-bird-cold-209096/), [wide-ice.jpg](https://www.pexels.com/photo/cold-nature-cute-ice-48814/), [african-beach.jpg](https://www.pexels.com/photo/an-african-penguin-on-a-shore-9085029/)
 
-    - [emperor-family-3.webp](https://www.pexels.com/photo/cold-nature-cute-ice-52509/)
-    - [icy-huddle.jpg](https://www.pexels.com/photo/group-of-penguins-on-ice-46235/)
-    - [king-line-2.webp](https://www.pexels.com/photo/animal-beaks-bird-cold-209096/)
-    - [wide-ice.jpg](https://www.pexels.com/photo/cold-nature-cute-ice-48814/)
-    - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+- The Images used in the Landing page, gallery and sign up page taken from [Unsplash](https://unsplash.com/):
 
-  - [Google Images](https://www.google.com/imghp)
+  - [fiordland-swim2.webp](https://unsplash.com/photos/aRD43BMqAp8), [adelie-beach-ice.jpg](https://unsplash.com/photos/0eYHcCrcFNM), [chinstrap-penguins.jpg](https://unsplash.com/photos/3Xd5j9-drDA), [yellow-eyed-penguin.jpg](https://unsplash.com/photos/Ak81Vc-kCf4), [huddle-king](https://unsplash.com/photos/4CVMWrWh3xU)
+
+- Images used in the Landing Page and gallery taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page):
+
+  - [penguins-walking-2.webp](https://en.wikipedia.org/wiki/File:Penguins_walking_-Moltke_Harbour,_South_Georgia,_British_overseas_territory,_UK-8.jpg),
+    [emperor-family2.webp](https://en.wikipedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg)
+
+- Images used in the gallery taken from [Google Images](https://www.google.com/imghp):
 
 - This project is for educational purposes only
 
