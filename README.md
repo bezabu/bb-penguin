@@ -24,11 +24,9 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Penguins Section
 
-  - Below the fold is where the user can find information about penguins. The user can learn about different species of penguin and how they live so that they have context for the next section.
+  - Below the fold is where the user can find information about penguins. The user can learn about different species of penguin and how they live so that they have context for the next section (linked to from the aforementioned third message), where the user can learn about the stated goals of the organisation, and the ways they can contribute.
 
   ![info](assets/images/info-1.webp)
-
-  - Further down the page the user can learn about the stated goals of the organisation and what they can do to contribute.
 
   ![info](assets/images/info-2.jfif)
 
@@ -123,28 +121,29 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 - Accessibility
 
   - Two alerts returned when passing through the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/report#/https://bezabu.github.io/bb-penguin/index.html)
-    - A section with id fixed-image had white text over a background image. Adding a background-color property \_ _below_ \_ the background-image property cleared this alert.
-    - The 'Become a member' link which links to the sign-up page and the 'Save the Penguins' link in the navigation bar was flagged as redundant links. I got around this by having one of them link specifically to the header in the sign-up page. This clearede the alert.
+    - A section with id fixed-image had white text over a background image. Adding a background-color property \_below\_ the background-image property cleared this alert.
+    - The 'Become a member' link which links to the sign-up page and the 'Save the Penguins' link in the navigation bar was flagged as redundant links. I got around this by having one of them link specifically to the header in the sign-up page. This cleared the alert.
   - No errors or contrast errors were returned.
 
 ## Technologies
 
-- HTML has been used to structure the web site
-- CSS has been used to style the web site
-- [Chrome dev tools](https://developer.chrome.com/docs/devtools/) has been used for testing, debugging
-- [FontAwesome](https://fontawesome.com/) has been used for the icons in the footer and for custom bullet points
-- [Google fonts](https://fonts.google.com/) has been used to import the fonts **Archivo**, **Bebas Neue** and **Fjalla One**
-- [Iconifier](https://iconifier.net/) has been used to create a favicon
-- [Techsini mockup generator](https://techsini.com/multi-mockup/index.php) has been used to create the mockup for the readme file
-- [Github](https://github.com/) has been used to store code, images and other contents
-- [Gitpages](https://pages.github.com/) was used to deploy the website
-- [Git](https://git-scm.com/) was used for version control, pushing contents to github
-- [Codeanywhere](https://app.codeanywhere.com/)was used as IDE
-- [Wave Web Accessibility Evaluation tool](https://wave.webaim.org/) was used to test the accessibility of the web site
-- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used to run an audit of the web site
-- [W3C Markup Validation Service](https://validator.w3.org/) was used to check HTML
-- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to check CSS
-- [TinyPNG](https://tinypng.com/) was used to optimise images for faster loading times
+- HTML has been used to structure the web site.
+- CSS has been used to style the web site.
+- [Chrome dev tools](https://developer.chrome.com/docs/devtools/) has been used for testing, debugging.
+- [FontAwesome](https://fontawesome.com/) has been used for the icons in the footer and for custom bullet points.
+- [Google fonts](https://fonts.google.com/) has been used to import the fonts **Archivo**, **Bebas Neue** and **Fjalla One**.
+- [Iconifier](https://iconifier.net/) has been used to create a favicon.
+- [Techsini mockup generator](https://techsini.com/multi-mockup/index.php) has been used to create the mockup for the readme file.
+- [Github](https://github.com/) has been used to store code, images and other contents.
+- [Gitpages](https://pages.github.com/) was used to deploy the website.
+- [Git](https://git-scm.com/) was used for version control, pushing contents to github.
+- [Codeanywhere](https://app.codeanywhere.com/)was used as IDE.
+- [Wave Web Accessibility Evaluation tool](https://wave.webaim.org/) was used to test the accessibility of the web site.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used to run an audit of the web site.
+- [W3C Markup Validation Service](https://validator.w3.org/) was used to check HTML.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to check CSS.
+- [TinyPNG](https://tinypng.com/) was used to optimise images for faster loading times.
+- [GrammarCheck.net](https://www.grammarcheck.net/) was used to check for spelling and grammar errors.
 
 ## Deployment
 
