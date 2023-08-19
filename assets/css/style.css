@@ -195,9 +195,15 @@ label {
     border-radius: 1px;
 }
 
+.form-dropdown-input {
+    display: inline;
+    float: right;
+    margin: 10px;
+}
+
 .signup-button {
     display: block;
-    margin: auto;
+    margin: 40px auto 10px;
     width: 200px;
     height: 80px;
     border-radius: 5px;
@@ -353,6 +359,7 @@ footer {
     transform: scale(1.1);
 }
 
+/* Custom 404 page */
 #image-404 {
     background-image: url(../images/penguin-camera.webp);
     background-color: #ffffff;
@@ -412,7 +419,7 @@ footer {
     }
 }
 
-/*Laptop*/
+/*Small screens, laptops*/
 @media screen and (max-width: 1200px) {
     #heading {
         font-size: 250%;
@@ -433,6 +440,10 @@ footer {
 
     .fact-container-narrow {
         width: 35%;
+    }
+
+    label {
+        width: 75%;
     }
 }
 
@@ -480,6 +491,10 @@ footer {
 
     #photos {
         column-count: 3;
+    }
+
+    label {
+        width: 70%;
     }
 }
 
@@ -651,7 +666,7 @@ footer {
     }
 
     label {
-        width: 55%;
+        width: 50%;
     }
 
 }
@@ -735,5 +750,9 @@ footer {
 
     #photos {
         column-count: 1;
+    }
+
+    label {
+        width: 50%;
     }
 }

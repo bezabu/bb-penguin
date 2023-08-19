@@ -8,7 +8,7 @@
     <meta name="description" content="Love Penguins Conservation">
     <meta name="keywords" content="penguins, conservation, wildlife, animals">
     <meta name="author" content="Ben Butler">
-    <title>Penguins</title>
+    <title>Become a member</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
@@ -55,17 +55,30 @@
                 <br>
                 <fieldset>
                     <legend>
-                        <h3>What is your favourite penguin?</h3>
+                        <h3>How did you hear about us?</h3>
                     </legend>
-                    <label for="radio-emperor">Emperor</label>
-                    <input class="form-radio-input" id="radio-emperor" type="radio" name="fav_penguin" value="emperor">
+                    <label for="radio-social">Social media</label>
+                    <input class="form-radio-input" id="radio-social" type="radio" name="heard_about" value="social">
 
-                    <label for="radio-adelie">Adélie</label>
-                    <input class="form-radio-input" id="radio-adelie" type="radio" name="fav_penguin" value="adelie">
+                    <label for="radio-friend">From a friend</label>
+                    <input class="form-radio-input" id="radio-friend" type="radio" name="heard_about" value="friend">
 
-                    <label for="radio-king">King</label>
-                    <input class="form-radio-input" id="radio-king" type="radio" name="fav_penguin" value="king">
+                    <label for="radio-website">Another website</label>
+                    <input class="form-radio-input" id="radio-website" type="radio" name="heard_about" value="website">
+
+                    <label for="radio-other">Other</label>
+                    <input class="form-radio-input" id="radio-other" type="radio" name="heard_about" value="other">
                 </fieldset>
+                <label for="select-favourite">What's your favourite penguin?</label>
+                <select name="fav-penguin" id="select-favourite">
+                    <option value="emperor">Emperor</option>
+                    <option value="king">King</option>
+                    <option value="adelie">Adélie</option>
+                    <option value="gentoo">Gentoo</option>
+                    <option value="chinstrap">Chinstrap</option>
+                    <option value="humboldt">Humboldt</option>
+                    <option value="rockhopper">Rockhopper</option>
+                </select>
                 <br>
                 <input class="signup-button" type="submit" value="Sign Up!">
             </form>
