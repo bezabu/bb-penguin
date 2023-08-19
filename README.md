@@ -80,12 +80,31 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
   - Result:
     - All links work correctly
 
-- Check all external links point to correct pages
+- Check all external links point to correct pages and open in a new tab
+
   - Test:
     a. Open the website in a browser
     b. Click on all links in the footer (Facebook, Twitter and Instagram) from each page to ensure they lead to the correct pages and open in a new tab.
   - Result:
     - All links work correctly
+
+- Check sign up form validation works correctly
+
+  - Test:
+    a. Open the website in a browser
+    b. Navigate to the sign up page
+    c. Click on the Sign up button without entering any information. Observe the prompt for each part of the form where input is required.
+  - Result:
+    - All form inputs that require input (Name, surname, email address, how did you hear about us) prompt the user for input if not filled in properly
+
+- Check sign up form sends correct data to formdump
+  - Test:
+    a. Open the website in a browser
+    b. Navigate to the sign up page
+    c. Fill out the form making sure to try each variation of the 'how did you hear about us' and 'favourite penguin' inputs
+    d. Observe the code institute form dump to ensure each name and value is correct
+  - Result:
+    - All names and values are correct
 
 ## Validator Testing
 
@@ -170,7 +189,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Images used in the gallery and custom 404 page taken from [Google Images](https://www.google.com/imghp):
 
-[mcmurdo-penguins.jpg](https://new.nsf.gov/news/season-penguin-ranch-antarctica), [emperor-posers.jpg](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg), [emperor-conga.jpg](https://www.birdquest-tours.com/birding-tours/antarctica-emperor-penguin/), [emperor-jump.jpg](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/), [creche-emperor.jpg](https://www.euronews.com/green/2020/08/05/new-penguin-colonies-in-antarctica-spotted-by-satellites-in-space), [creche-emperor2.jpg](https://www.livescience.com/satellites-reveal-emperor-penguin-colony-antarctica), [penguin-camera](https://peapix.com/bing/32172)
+  - [mcmurdo-penguins.jpg](https://new.nsf.gov/news/season-penguin-ranch-antarctica), [emperor-posers.jpg](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg), [emperor-conga.jpg](https://www.birdquest-tours.com/birding-tours/antarctica-emperor-penguin/), [emperor-jump.jpg](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/), [creche-emperor.jpg](https://www.euronews.com/green/2020/08/05/new-penguin-colonies-in-antarctica-spotted-by-satellites-in-space), [creche-emperor2.jpg](https://www.livescience.com/satellites-reveal-emperor-penguin-colony-antarctica), [penguin-camera](https://peapix.com/bing/32172)
 
 - This project is for educational purposes only
 
