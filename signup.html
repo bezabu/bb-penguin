@@ -14,21 +14,23 @@
 </head>
 
 <body>
+    <!-- header -->
     <header>
         <div id="heading"><a href="index.html#heading">
                 <h1>We Love Penguins</h1>
             </a></div>
         <div class="nav-container">
+            <!-- navigation links -->
             <nav>
                 <ul>
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="index.html" aria-label="Go to the home page.">Home</a>
                     </li>
                     <li>
-                        <a href="gallery.html">Gallery</a>
+                        <a href="gallery.html" aria-label="Go to the gallery page.">Gallery</a>
                     </li>
                     <li>
-                        <a href="#">Save the Penguins</a>
+                        <a href="#" aria-label="Go to the sign up page (current page).">Save the Penguins</a>
                     </li>
                 </ul>
             </nav>
@@ -36,20 +38,17 @@
     </header>
     <section aria-label="Image showing five King penguins walking in a line over some rocks">
         <div id="signup-hero">
+            <!-- form -->
             <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
                 <h2>Become a member today and save the penguins!</h2>
                 <label for="fname">First Name</label>
                 <input class="form-text-input" id="fname" type="text" name="first_name" required>
-
                 <label for="lname">Last Name</label>
                 <input class="form-text-input" id="lname" type="text" name="last_name" required>
-
                 <label for="email">Email Address</label>
                 <input class="form-text-input" id="email" type="email" name="email_address" required>
-
                 <label for="mdonate">I want to make a monthly donation</label>
                 <input class="form-checkbox-input" id="mdonate" type="checkbox" name="month_donate">
-
                 <label for="newsletter">I want to hear about news and events</label>
                 <input class="form-checkbox-input" id="newsletter" type="checkbox" name="news_letter">
                 <br>
@@ -60,13 +59,10 @@
                     <label for="radio-social">Social media</label>
                     <input class="form-radio-input" id="radio-social" type="radio" name="heard_about" value="social"
                         required>
-
                     <label for="radio-friend">From a friend</label>
                     <input class="form-radio-input" id="radio-friend" type="radio" name="heard_about" value="friend">
-
                     <label for="radio-website">Another website</label>
                     <input class="form-radio-input" id="radio-website" type="radio" name="heard_about" value="website">
-
                     <label for="radio-other">Other</label>
                     <input class="form-radio-input" id="radio-other" type="radio" name="heard_about" value="other">
                 </fieldset>
@@ -85,6 +81,7 @@
             </form>
         </div>
     </section>
+    <!-- footer -->
     <footer>
         <br>
         <ul>
@@ -97,7 +94,6 @@
                     aria-label="Go to our instagram(link opens in new tab)"><i class="fa-brands fa-instagram"></i></a>
             </li>
         </ul>
-
     </footer>
     <script src="https://kit.fontawesome.com/0bb0b47388.js" crossorigin="anonymous"></script>
 </body>

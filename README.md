@@ -63,6 +63,8 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - I would like to include seperate pages that provide more informationon each individual species of penguin in more detail.
 
+- Custom checkbox, radio & dropdown medu inputs.
+
 ## Testing
 
 - Check all media queries function correctly in different browsers (Chrome, Firefox, Edge, Opera)
