@@ -352,6 +352,22 @@ footer {
     transform: scale(1.1);
 }
 
+#image-404 {
+    background-image: url(../images/penguin-camera.webp);
+    background-color: #ffffff;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+    clear: both;
+}
+
+#image-404 h1 {
+    font-size: 6rem;
+    color: #000000;
+    text-transform: uppercase;
+    font-family: Bebas Neue, sans-serif;
+}
+
 /*  timings for hero image text */
 @keyframes message-fade {
     0% {

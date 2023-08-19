@@ -164,13 +164,13 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Images used in the gallery taken from [Google Images](https://www.google.com/imghp):
 
-
 [mcmurdo-penguins.jpg](https://new.nsf.gov/news/season-penguin-ranch-antarctica)
 [emperor-posers.jpg](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg)
 [emperor-conga.jpg](https://www.birdquest-tours.com/birding-tours/antarctica-emperor-penguin/)
 [emperor-jump.jpg](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/)
 [creche-emperor.jpg](https://www.euronews.com/green/2020/08/05/new-penguin-colonies-in-antarctica-spotted-by-satellites-in-space)
 [creche-emperor2.jpg](https://www.livescience.com/satellites-reveal-emperor-penguin-colony-antarctica)
+[penguin-camera](https://peapix.com/bing/32172)
 
 - This project is for educational purposes only
 
