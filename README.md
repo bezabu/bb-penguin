@@ -43,7 +43,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
   - The gallery will provide the user with pictures of penguins. The responsive design ensures that each image will still be easily viewable on a small screen.
   - When the user moves the cursor over an image it will zoom slightly, enabling the user to see it better.
 
-  ![gallery](assets/images/gallery.jfif)
+  ![gallery](assets/images/gallery.webp)
 
 - Signup form
 
@@ -182,14 +182,10 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
   - [fiordland-swim2.webp](https://unsplash.com/photos/aRD43BMqAp8), [adelie-beach-ice.jpg](https://unsplash.com/photos/0eYHcCrcFNM), [chinstrap-penguins.jpg](https://unsplash.com/photos/3Xd5j9-drDA), [yellow-eyed-penguin.jpg](https://unsplash.com/photos/Ak81Vc-kCf4), [huddle-king](https://unsplash.com/photos/4CVMWrWh3xU), [baby-gentoo.webp](https://unsplash.com/photos/HrLHBqrnefc), [chinstrap-splash.webp](https://unsplash.com/photos/t5IN6vx0cLs), [adelie-feed.webp](https://unsplash.com/photos/ujWrNI4mFww), [gentoo-boat.jpg](https://unsplash.com/photos/-Eu3Iud63rA)
 
-- Images used in the Landing Page and gallery taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page):
+- Images used in the Landing Page and gallery taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) under creative commons 2.0:
 
   - [penguins-walking-2.webp](https://en.wikipedia.org/wiki/File:Penguins_walking_-Moltke_Harbour,_South_Georgia,_British_overseas_territory,_UK-8.jpg),
-    [emperor-family2.webp](https://en.wikipedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg)
-
-- Images used in the gallery and custom 404 page taken from [Google Images](https://www.google.com/imghp):
-
-  - [mcmurdo-penguins.jpg, Scripps Institution of Oceanography/UC San Diego](https://new.nsf.gov/news/season-penguin-ranch-antarctica), [emperor-posers.jpg, National Geographic Animals: Penguins by the Numbers](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg), [emperor-jump.jpg, Emperor Penguins of Gould Bay by Christopher Michel](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/)
+    [emperor-family2.webp](https://en.wikipedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg), [emperor-jump.jpg,](https://en.wikipedia.org/wiki/Princess_Ragnhild_Coast#/media/File:Penguin_in_Antarctica_jumping_out_of_the_water.jpg)
 
 - All text and images used in this project are for non commercial, educational purposes only.
 
