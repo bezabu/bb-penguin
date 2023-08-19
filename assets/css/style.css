@@ -363,11 +363,17 @@ footer {
     clear: both;
 }
 
-#image-404 h1 {
+#image-404 h2 {
     font-size: 6rem;
     color: #000000;
     text-transform: uppercase;
     font-family: Bebas Neue, sans-serif;
+}
+
+#image-404 a {
+    display: block;
+    text-align: center;
+    font-size: 3rem;
 }
 
 /*  timings for hero image text */

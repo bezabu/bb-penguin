@@ -55,6 +55,12 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
   ![favicon](assets/images/favicon.webp)
 
+- Custom 404 Page
+
+  - A custom 404 page has been included to help the user get back to the Landing page.
+
+  ![Custom 404 page](assets/images/custom-404.webp)
+
 ## Testing
 
 - Check all media queries function correctly in different browsers (Chrome, Firefox, Edge, Opera)
@@ -153,7 +159,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
   - [emperor-family-3.webp](https://www.pexels.com/photo/cold-nature-cute-ice-52509/), [icy-huddle.jpg](https://www.pexels.com/photo/group-of-penguins-on-ice-46235/), [king-line-2.webp](https://www.pexels.com/photo/animal-beaks-bird-cold-209096/), [wide-ice.jpg](https://www.pexels.com/photo/cold-nature-cute-ice-48814/), [african-beach.jpg](https://www.pexels.com/photo/an-african-penguin-on-a-shore-9085029/)
 
-- The Images used in the Landing page, gallery and sign up page taken from [Unsplash](https://unsplash.com/):
+- The Images used in the Landing page, gallery taken from [Unsplash](https://unsplash.com/):
 
   - [fiordland-swim2.webp](https://unsplash.com/photos/aRD43BMqAp8), [adelie-beach-ice.jpg](https://unsplash.com/photos/0eYHcCrcFNM), [chinstrap-penguins.jpg](https://unsplash.com/photos/3Xd5j9-drDA), [yellow-eyed-penguin.jpg](https://unsplash.com/photos/Ak81Vc-kCf4), [huddle-king](https://unsplash.com/photos/4CVMWrWh3xU)
 
@@ -162,15 +168,9 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
   - [penguins-walking-2.webp](https://en.wikipedia.org/wiki/File:Penguins_walking_-Moltke_Harbour,_South_Georgia,_British_overseas_territory,_UK-8.jpg),
     [emperor-family2.webp](https://en.wikipedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg)
 
-- Images used in the gallery taken from [Google Images](https://www.google.com/imghp):
+- Images used in the gallery and custom 404 page taken from [Google Images](https://www.google.com/imghp):
 
-[mcmurdo-penguins.jpg](https://new.nsf.gov/news/season-penguin-ranch-antarctica)
-[emperor-posers.jpg](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg)
-[emperor-conga.jpg](https://www.birdquest-tours.com/birding-tours/antarctica-emperor-penguin/)
-[emperor-jump.jpg](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/)
-[creche-emperor.jpg](https://www.euronews.com/green/2020/08/05/new-penguin-colonies-in-antarctica-spotted-by-satellites-in-space)
-[creche-emperor2.jpg](https://www.livescience.com/satellites-reveal-emperor-penguin-colony-antarctica)
-[penguin-camera](https://peapix.com/bing/32172)
+[mcmurdo-penguins.jpg](https://new.nsf.gov/news/season-penguin-ranch-antarctica), [emperor-posers.jpg](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg), [emperor-conga.jpg](https://www.birdquest-tours.com/birding-tours/antarctica-emperor-penguin/), [emperor-jump.jpg](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/), [creche-emperor.jpg](https://www.euronews.com/green/2020/08/05/new-penguin-colonies-in-antarctica-spotted-by-satellites-in-space), [creche-emperor2.jpg](https://www.livescience.com/satellites-reveal-emperor-penguin-colony-antarctica), [penguin-camera](https://peapix.com/bing/32172)
 
 - This project is for educational purposes only
 
