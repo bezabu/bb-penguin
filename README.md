@@ -174,13 +174,13 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 ### Images
 
-- The Images used in the Landing page, gallery and sign up page taken from [Pexels](https://www.pexels.com/):
+- The Images used in the Landing page, gallery, custom 404 page and sign up page taken from [Pexels](https://www.pexels.com/):
 
-  - [emperor-family-3.webp](https://www.pexels.com/photo/cold-nature-cute-ice-52509/), [icy-huddle.jpg](https://www.pexels.com/photo/group-of-penguins-on-ice-46235/), [king-line-2.webp](https://www.pexels.com/photo/animal-beaks-bird-cold-209096/), [wide-ice.jpg](https://www.pexels.com/photo/cold-nature-cute-ice-48814/), [african-beach.jpg](https://www.pexels.com/photo/an-african-penguin-on-a-shore-9085029/)
+  - [emperor-family-3.webp](https://www.pexels.com/photo/cold-nature-cute-ice-52509/), [icy-huddle.jpg](https://www.pexels.com/photo/group-of-penguins-on-ice-46235/), [king-line-2.webp](https://www.pexels.com/photo/animal-beaks-bird-cold-209096/), [wide-ice.jpg](https://www.pexels.com/photo/cold-nature-cute-ice-48814/), [african-beach.jpg](https://www.pexels.com/photo/an-african-penguin-on-a-shore-9085029/), [ice-sea.webp](https://www.pexels.com/photo/iceberg-during-daytime-53389/)
 
 - The Images used in the Landing page, gallery taken from [Unsplash](https://unsplash.com/):
 
-  - [fiordland-swim2.webp](https://unsplash.com/photos/aRD43BMqAp8), [adelie-beach-ice.jpg](https://unsplash.com/photos/0eYHcCrcFNM), [chinstrap-penguins.jpg](https://unsplash.com/photos/3Xd5j9-drDA), [yellow-eyed-penguin.jpg](https://unsplash.com/photos/Ak81Vc-kCf4), [huddle-king](https://unsplash.com/photos/4CVMWrWh3xU)
+  - [fiordland-swim2.webp](https://unsplash.com/photos/aRD43BMqAp8), [adelie-beach-ice.jpg](https://unsplash.com/photos/0eYHcCrcFNM), [chinstrap-penguins.jpg](https://unsplash.com/photos/3Xd5j9-drDA), [yellow-eyed-penguin.jpg](https://unsplash.com/photos/Ak81Vc-kCf4), [huddle-king](https://unsplash.com/photos/4CVMWrWh3xU), [baby-gentoo.webp](https://unsplash.com/photos/HrLHBqrnefc), [chinstrap-splash.webp](https://unsplash.com/photos/t5IN6vx0cLs), [adelie-feed.webp](https://unsplash.com/photos/ujWrNI4mFww), [gentoo-boat.jpg](https://unsplash.com/photos/-Eu3Iud63rA)
 
 - Images used in the Landing Page and gallery taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page):
 
@@ -189,9 +189,9 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Images used in the gallery and custom 404 page taken from [Google Images](https://www.google.com/imghp):
 
-  - [mcmurdo-penguins.jpg](https://new.nsf.gov/news/season-penguin-ranch-antarctica), [emperor-posers.jpg](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg), [emperor-conga.jpg](https://www.birdquest-tours.com/birding-tours/antarctica-emperor-penguin/), [emperor-jump.jpg](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/), [creche-emperor.jpg](https://www.euronews.com/green/2020/08/05/new-penguin-colonies-in-antarctica-spotted-by-satellites-in-space), [creche-emperor2.jpg](https://www.livescience.com/satellites-reveal-emperor-penguin-colony-antarctica), [penguin-camera](https://peapix.com/bing/32172)
+  - [mcmurdo-penguins.jpg, Scripps Institution of Oceanography/UC San Diego](https://new.nsf.gov/news/season-penguin-ranch-antarctica), [emperor-posers.jpg, National Geographic Animals: Penguins by the Numbers](https://images.nationalgeographic.org/image/upload/v1638886309/EducationHub/photos/edu-penguins-bubbles.jpg), [emperor-jump.jpg, Emperor Penguins of Gould Bay by Christopher Michel](https://www.goodnewsnetwork.org/satellites-find-20pt-more-emperor-penguin-colonies-in-antarctica/)
 
-- This project is for educational purposes only
+- All text and images used in this project are for non commercial, educational purposes only.
 
 ### Code
 
