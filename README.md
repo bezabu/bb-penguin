@@ -45,7 +45,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - The sign up form will allow the user to join the organisation by providing their details, contact information and other information.
 
-  - ![sign up](assets/images/signup.webp)
+  ![sign up](assets/images/signup.webp)
 
 - Favicon
 
@@ -68,43 +68,43 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 - Check all media queries function correctly in different browsers (Chrome, Firefox, Edge, Opera)
 
   - Test:
-    a. Open the website in a browser
-    b. Right click on the page and select 'Inspect' or 'Inspect element'
-    c. Slowly resize the responsive window down to 280 and back again, observing changes at each breakpoint
+    - Open the website in a browser
+    - Right click on the page and select 'Inspect' or 'Inspect element'
+    - Slowly resize the responsive window down to 280 and back again, observing changes at each breakpoint
   - Result:
     - All media queries work correctly
 
 - Check all navigation links point to correct pages
 
   - Test:
-    a. Open the website in a browser
-    b. Click on all links in the navigation bar (Home, Gallery, Save the Penguins) from each page to ensure they lead to the correct pages.
+    - Open the website in a browser
+    - Click on all links in the navigation bar (Home, Gallery, Save the Penguins) from each page to ensure they lead to the correct pages.
   - Result:
     - All links work correctly
 
 - Check all external links point to correct pages and open in a new tab
 
   - Test:
-    a. Open the website in a browser
-    b. Click on all links in the footer (Facebook, Twitter and Instagram) from each page to ensure they lead to the correct pages and open in a new tab.
+    - Open the website in a browser
+    - Click on all links in the footer (Facebook, Twitter and Instagram) from each page to ensure they lead to the correct pages and open in a new tab.
   - Result:
     - All links work correctly
 
 - Check sign up form validation works correctly
 
   - Test:
-    a. Open the website in a browser
-    b. Navigate to the sign up page
-    c. Click on the Sign up button without entering any information. Observe the prompt for each part of the form where input is required.
+    - Open the website in a browser
+    - Navigate to the sign up page
+    - Click on the Sign up button without entering any information. Observe the prompt for each part of the form where input is required.
   - Result:
     - All form inputs that require input (Name, surname, email address, how did you hear about us) prompt the user for input if not filled in properly
 
 - Check sign up form sends correct data to formdump
   - Test:
-    a. Open the website in a browser
-    b. Navigate to the sign up page
-    c. Fill out the form making sure to try each variation of the 'how did you hear about us' and 'favourite penguin' inputs
-    d. Observe the code institute form dump to ensure each name and value is correct
+    - Open the website in a browser
+    - Navigate to the sign up page
+    - Fill out the form making sure to try each variation of the 'how did you hear about us' and 'favourite penguin' inputs
+    - Observe the code institute form dump to ensure each name and value is correct
   - Result:
     - All names and values are correct
 
@@ -137,7 +137,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 - [Github](https://github.com/) has been used to store code, images and other contents.
 - [Gitpages](https://pages.github.com/) was used to deploy the website.
 - [Git](https://git-scm.com/) was used for version control, pushing contents to github.
-- [Codeanywhere](https://app.codeanywhere.com/)was used as IDE.
+- [Codeanywhere](https://app.codeanywhere.com/) was used as IDE.
 - [Wave Web Accessibility Evaluation tool](https://wave.webaim.org/) was used to test the accessibility of the web site.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used to run an audit of the web site.
 - [W3C Markup Validation Service](https://validator.w3.org/) was used to check HTML.
@@ -184,7 +184,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - The Images used in the Landing page, gallery taken from [Unsplash](https://unsplash.com/):
 
-  - [fiordland-swim2.webp](https://unsplash.com/photos/aRD43BMqAp8), [adelie-beach-ice.jpg](https://unsplash.com/photos/0eYHcCrcFNM), [chinstrap-penguins.jpg](https://unsplash.com/photos/3Xd5j9-drDA), [yellow-eyed-penguin.jpg](https://unsplash.com/photos/Ak81Vc-kCf4), [huddle-king](https://unsplash.com/photos/4CVMWrWh3xU), [baby-gentoo.webp](https://unsplash.com/photos/HrLHBqrnefc), [chinstrap-splash.webp](https://unsplash.com/photos/t5IN6vx0cLs), [adelie-feed.webp](https://unsplash.com/photos/ujWrNI4mFww), [gentoo-boat.jpg](https://unsplash.com/photos/-Eu3Iud63rA)
+  - [fiordland-swim2.webp](https://unsplash.com/photos/aRD43BMqAp8), [adelie-beach-ice.jpg](https://unsplash.com/photos/0eYHcCrcFNM), [chinstrap-penguins.jpg](https://unsplash.com/photos/3Xd5j9-drDA), [yellow-eyed-penguin.jpg](https://unsplash.com/photos/Ak81Vc-kCf4), [huddle-king.jpg](https://unsplash.com/photos/4CVMWrWh3xU), [baby-gentoo.webp](https://unsplash.com/photos/HrLHBqrnefc), [chinstrap-splash.webp](https://unsplash.com/photos/t5IN6vx0cLs), [adelie-feed.webp](https://unsplash.com/photos/ujWrNI4mFww), [gentoo-boat.jpg](https://unsplash.com/photos/-Eu3Iud63rA)
 
 - Images used in the Landing Page and gallery taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) under creative commons 2.0:
 
@@ -197,6 +197,6 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Instructions on how to implement font awesome icons as bullet points was taken from [the answers to this Stack Overflow question](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 
-- Instructions on how to implement a zoom effect on hovering over images was taken from [This W3Schools page](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
+- Instructions on how to implement a zoom effect on hovering over images was taken from [this W3Schools page](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
 
--
+- Additional instructions on how to implement media queries was taken from [the answers to this Stack Overflow Question](https://stackoverflow.com/questions/26888751/chrome-device-mode-emulation-media-queries-not-working), [this W3Schools page](https://www.w3schools.com/cssref/css3_pr_mediaquery.php)
