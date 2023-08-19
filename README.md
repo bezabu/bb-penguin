@@ -61,7 +61,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 ### Features left to implement
 
-- I would like to include seperate pages that provide more informationon each individual species of penguin in more detail.
+- I would like to include seperate pages that provide more information on each individual species of penguin in more detail.
 
 - Custom checkbox, radio & dropdown medu inputs.
 
@@ -146,6 +146,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to check CSS.
 - [TinyPNG](https://tinypng.com/) was used to optimise images for faster loading times.
 - [GrammarCheck.net](https://www.grammarcheck.net/) was used to check for spelling and grammar errors.
+- [HTMLcolourcodes.com](https://htmlcolorcodes.com/) was used to get hex colour values.
 
 ## Deployment
 
