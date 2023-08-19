@@ -24,28 +24,28 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 
 - Penguins Section
 
-  - Below the fold is where the user can find information about penguins. The user can learn about different species of penguin and how they live.
+  - Below the fold is where the user can find information about penguins. The user can learn about different species of penguin and how they live so that they have context for the next section.
 
   ![info](assets/images/info-1.webp)
 
-  - Further down the page the user can learn about the goals of the organisation and what they can do to contribute.
+  - Further down the page the user can learn about the stated goals of the organisation and what they can do to contribute.
 
   ![info](assets/images/info-2.jfif)
 
 - Footer
 
-  - Found at the bottom of the page.
+  - Found at the bottom of the page, the footer has links to the organisation's social media pages that open in a seperate tab.
 
   ![footer](assets/images/footer-1.jfif)
 
 - Gallery
 
   - The gallery will provide the user with pictures of penguins. The responsive design ensures that each image will still be easily viewable on a small screen.
-  - When the user moves the cursor over an image it will zoom slightly, enabling the user to see it better.
+  - When the user moves the cursor over an image it will zoom slightly, enabling the user to see it better. Most images have been optimised for faster loading times.
 
   ![gallery](assets/images/gallery.webp)
 
-- Signup form
+- The sign up form will allow the user to join the organisation by providing their details, contact information and other information.
 
   - ![sign up](assets/images/signup.webp)
 
@@ -60,6 +60,10 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
   - A custom 404 page has been included to help the user get back to the Landing page.
 
   ![Custom 404 page](assets/images/custom-404.webp)
+
+### Features left to implement
+
+- I would like to include seperate pages that provide more informationon each individual species of penguin in more detail.
 
 ## Testing
 
@@ -140,6 +144,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/#devtools) was used to run an audit of the web site
 - [W3C Markup Validation Service](https://validator.w3.org/) was used to check HTML
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to check CSS
+- [TinyPNG](https://tinypng.com/) was used to optimise images for faster loading times
 
 ## Deployment
 
@@ -194,3 +199,5 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
 - Instructions on how to implement font awesome icons as bullet points was taken from [the answers to this Stack Overflow question](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 
 - Instructions on how to implement a zoom effect on hovering over images was taken from [This W3Schools page](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
+
+-
