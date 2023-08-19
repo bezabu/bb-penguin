@@ -102,6 +102,7 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
     - All form inputs that require input (Name, surname, email address, how did you hear about us) prompt the user for input if not filled in properly
 
 - Check sign up form sends correct data to formdump
+
   - Test:
     - Open the website in a browser
     - Navigate to the sign up page
@@ -109,6 +110,14 @@ The site can be accessed [here](https://bezabu.github.io/bb-penguin/).
     - Observe the code institute form dump to ensure each name and value is correct
   - Result:
     - All names and values are correct
+
+- Check the custom 404 page functions correctly
+  - Test:
+    - Open the website in a browser
+    - Enter an incorrect URL from the root directory
+    - Observe if the browser shows 404.html
+  - Result:
+    - The custom 404 page is shown
 
 ## Validator Testing
 
